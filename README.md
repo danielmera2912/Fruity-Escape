@@ -17,3 +17,9 @@
 **Mixkit**: Es de licencia libre para fines comerciales y no comerciales, se puede descargar, modificar, distribuir y publicar en cualquier plataforma web, videojuego o podcast, además de representar en películas o distribuir en CDs, DVDs, TV o radio. No se puede redistribuir el efecto de sonido como elemento individual, ni registrar sus derechos.
 
 **Pexels**: Los vídeos son de libre uso, no es necesario dar créditos al artista y se puede modificar y editar al gusto. No se puede realizar contenido ofensivo a las personas de los vídeos, no se puede vender el contenido sin manipular, no se puede redistribuir o vender el contenido como elemento individual.
+
+## Imagenes
+
+**Mapa**: Tenemos el archivo modificable (afphoto), la imagen en png, la imagen en jpeg (para web) con poco peso, la imagen en webp (para web) con poco peso, y el mapa en .tiff para impresión.
+
+**Personaje**: Tenemos a la manzana en formato modificable (.afdesign, png y svg para que se reescale sin perder calidad).
